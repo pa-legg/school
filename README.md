@@ -2,7 +2,8 @@
 
 Repository of resources collated for teaching Cyber Security.
 
-[OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+## OWASP Juice Shop
+https://owasp.org/www-project-juice-shop/
 
 * Online Demo - https://juice-shop.herokuapp.com/#/
 * Presentation on Juice Shop - https://juice-shop.github.io/juice-shop/#/
