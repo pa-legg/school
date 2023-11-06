@@ -1,6 +1,6 @@
 # Cyber Security Education Resources
 
-Repository of resources collated for teaching Cyber Security.
+Repository of open-source resources collated for teaching Cyber Security.
 
 ## OWASP Juice Shop
 https://owasp.org/www-project-juice-shop/
@@ -31,7 +31,7 @@ Possible questions to use with Juice Shop (https://tryhackme.com/room/owaspjuice
 ---
 ## OhSINT
 
-Download the original task file - WindowsXP.jpg
+Download the [original task file](https://github.com/pa-legg/school/blob/main/ohsint/WindowsXP.jpg?raw=true)
 
 Possible questions to follow up with:
 
