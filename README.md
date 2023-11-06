@@ -27,3 +27,18 @@ Possible questions to use with Juice Shop (https://tryhackme.com/room/owaspjuice
 * Perform a persistent XSS!
 * Perform a reflected XSS!
 * Access the /#/score-board/ page (provides even more challenges!)
+
+---
+## OhSINT
+
+Download the original task file - WindowsXP.jpg
+
+Possible questions to follow up with:
+
+* What is this user's avatar of?
+* What city is this person in?
+* What is the SSID of the WAP he connected to?
+* What is his personal email address?
+* What site did you find his email address on?
+* Where has he gone on holiday?
+* What is the person's password?
