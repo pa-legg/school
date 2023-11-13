@@ -20,4 +20,4 @@ At each workshop, you will find:
 
 We aim to support schools in the creation and delivery of practical activities for teaching cyber security education, and we are working to reduce the burden on teachers for making this a reality. All attending schools can request access to our South West regional equipment loan library, to help them make use of teaching materials and deliver innovative practical teaching as mapped against the current key stage curriculum.
 
-To register your place on the workshop, please sign up at: [https://forms.office.com/e/qGh88WCiUB(https://forms.office.com/e/qGh88WCiUB).
+To register your place on the workshop, please [sign up here](https://forms.office.com/e/qGh88WCiUB).
