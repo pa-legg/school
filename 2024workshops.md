@@ -9,7 +9,7 @@
 Workshops will be hosted on the following dates:
 - Wednesday 17th January 2024 – University of the West of England
 - Tuesday 23rd January 2024 – University of Exeter
-- Tuesday 30th January 2024 – University of Bristol
+- Friday 2nd February 2024 – University of Bristol
 - Tuesday 6th February 2024 – University of Plymouth
 
 **Thanks to the NCSC we can offer £150 per school to support supply teacher cover for attending a workshop.**
